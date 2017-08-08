@@ -2,7 +2,7 @@
 . env.sh
 
 #=====Name of IOC, "ioc" will be appended automatically by makeBaseApp!=====
-export EPICS_IOCNAME="melba1"
+export EPICS_IOCNAME="test"
 
 #====Change if necessary====
 export EPICS_HOME=/home/epics
